@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Thoughts</string>
+    <string name="title_text">Title</string>
+    <string name="new_thought" >New Thought</string>
+    <string name="delete_thought">Delete Thought</string>
+    <string name="title_hint">Enter the title</string>
+    <string name="content_text">Content</string>
+    <string name="content_hint">What are you thinking?</string>
+</resources>
