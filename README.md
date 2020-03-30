@@ -1,5 +1,5 @@
 # Thoughts
-An Android application to record you thoughts, ideas or just to jot down notes. It uses SQLite Database to store these notes locally.
+An Android application to record your thoughts, ideas or just to jot down notes. It uses SQLite Database to store these notes locally.
 
 To build the application clone or download the master branch then import the project using Android Studio.
 
